@@ -12,7 +12,7 @@ Basically, I use github.app or sourcetree.app instead of terminal,commandline.
 2. clone repository to local machine
 3. create new branch and move to it
 4. start edited cloned files then push them
-5. move to github repository page and check pushed branch data
+5. move to github repository page and check pushed branch data by clicking "Compare & pull request"
 6. move to Pull Request page and write down description about edited part to explain what you did
 7. send your pull request
 
