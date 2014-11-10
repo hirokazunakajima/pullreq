@@ -17,7 +17,7 @@ Basically, I use github.app or sourcetree.app instead of terminal,commandline.
 7. send your pull request by clicking "Create pull request"
 
 8. merge **(I will marge by myself for practice)**
-9. check contents of Pull Request it's been sent
+9. check contents of Pull Request which has been sent now
 10. if ok, merge pull request
 11. Delete branch button will be shown, so click and delete branch. (the role of that branch has finished)
 
